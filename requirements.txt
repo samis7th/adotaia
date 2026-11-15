@@ -1,0 +1,9 @@
+pandas>=2.2
+numpy>=1.26
+# Versão do scikit-learn usada para treinar o modelo salvo em modelo/modelo_adocao.joblib.
+# Se você treinar de novo no Colab, use a mesma versão do Colab aqui (veja o README).
+scikit-learn==1.9.1
+matplotlib>=3.8
+seaborn>=0.13
+joblib>=1.4
+gradio>=6.0
